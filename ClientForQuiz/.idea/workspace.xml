@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd3024d5-6880-4322-bcf4-664e0ab2410a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1350" />
+    <option name="height" value="700" />
+  </component>
+  <component name="ProjectId" id="1com1B22Jwt8NEgYzMHq3JAbtVe" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showExcludedFiles" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544768616212" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="C:\Users\Dell\IdeaProjects\ClientForQuiz\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="C:\Users\Dell\IdeaProjects\ClientForQuiz\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ClientApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClientApp" />
+      <module name="ClientForQuiz" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd3024d5-6880-4322-bcf4-664e0ab2410a" name="Default Changelist" comment="" />
+      <created>1544739540487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544739540487</updated>
+      <workItem from="1544739551878" duration="12519000" />
+      <workItem from="1544771873633" duration="1830000" />
+      <workItem from="1544855027634" duration="1236000" />
+      <workItem from="1544866840577" duration="36000" />
+      <workItem from="1591203104364" duration="298000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="569" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1591203107402">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="569" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1591203107402" />
+    <state width="1030" height="165" key="GridCell.Tab.0.bottom" timestamp="1591203482110">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1030" height="165" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591203482110" />
+    <state width="1030" height="165" key="GridCell.Tab.0.center" timestamp="1591203482109">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1030" height="165" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591203482109" />
+    <state width="1030" height="165" key="GridCell.Tab.0.left" timestamp="1591203482109">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1030" height="165" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591203482109" />
+    <state width="1030" height="165" key="GridCell.Tab.0.right" timestamp="1591203482110">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1030" height="165" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591203482110" />
+    <state x="221" y="63" key="SettingsEditor" timestamp="1591203427551">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1591203427551" />
+  </component>
+</project>
